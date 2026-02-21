@@ -1,8 +1,8 @@
 ## Hi, I'm Rushit 👋
 
-**Data Engineer** | MS Data Science, University of Florida | AWS & Azure Certified Data Engineer | PMP
+**Data Engineer** | Masters of Science in Information Systems and Operations Management (Data Science), University of Florida | AWS & Azure Certified Data Engineer | PMP
 
-I build production data pipelines, warehouse architectures, and data quality systems at enterprise scale. 3+ years working with Spark, Airflow, dbt, Snowflake, and AWS/Azure to deliver trusted, analytics-ready data.
+I build production data pipelines, warehouse architectures, and data quality systems at enterprise scale. 2+ years working with Spark, Airflow, dbt, Snowflake, and AWS/Azure to deliver trusted, analytics-ready data.
 
 ### 🔧 What I Work With
 `Python` `SQL` `Spark/PySpark` `Airflow` `dbt` `Kafka` `Snowflake` `Redshift` `AWS` `Azure` `Tableau` `Power BI`
